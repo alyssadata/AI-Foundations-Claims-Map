@@ -10,7 +10,7 @@ This repository is the canonical index of claims asserted from **AI Foundations*
 
 | Claim | Name | Status | Repository |
 |---|---|---|---|
-| 001 | Origin | Under adversarial destruction | [AI-Foundations-Claim-001-Origin](https://github.com/alyssadata/AI-Foundations-Claim-001-Origin) |
+| 001 | Origin | Active | [AI-Foundations-Claim-001-Origin](https://github.com/alyssadata/AI-Foundations-Claim-001-Origin) |
 
 ## Repository Rule
 
